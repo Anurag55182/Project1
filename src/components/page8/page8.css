@@ -1,0 +1,170 @@
+.page8 {
+  height: 1100px;
+  margin: 30px;
+  background-color: #e7eff9;
+  background-image: linear-gradient(315deg, #e7eff9 0%, #cfd6e6 74%);
+  border-radius: 2px;
+}
+.pg8div1 {
+  height: 350px;
+  background-color: #28282b;
+}
+.pg8button1 {
+  width: 100px;
+  height: 30px;
+  background: -webkit-linear-gradient(#e7eff9, #cfd6e6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: black;
+  font-weight: bold;
+  font-size: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+.pg8h1 {
+  margin-left: 25px;
+  margin-top: 150px;
+  font-size: 50px;
+  background: -webkit-linear-gradient(0deg, #e7eff9, #cfd6e6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.pg8Para1 {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 40px;
+}
+.pg8Text1 {
+  width: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 25px;
+  margin-top: 70px;
+}
+#pg8ul {
+  line-height: 40px;
+  list-style: none;
+  font-size: 17px;
+  font-weight: 500;
+}
+#pg8list1 {
+  width: 200px;
+  margin-left: 25px;
+  margin-top: 30px;
+}
+
+#pg8list2 {
+  width: 200px;
+  margin-left: 200px;
+  margin-top: -120px;
+}
+.pg8Flex1 {
+  width: 850px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -90px;
+  margin-top: 20px;
+}
+.pg8number {
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 110px;
+}
+
+.pg8container {
+  background-color: white;
+  position: absolute;
+  margin-left: 900px;
+  margin-top: -800px;
+  height: 850px;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.pg8h2 {
+  padding-top: 20px;
+  padding-left: 90px;
+}
+.pg8hr {
+  margin-top: 20px;
+  color: black;
+  opacity: 0.3;
+}
+.pg8Name {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+  margin-left: 50px;
+}
+.pg8flex2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.pg8container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+#pg8firstname {
+  width: 170px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgb(0, 0, 0, 0.1);
+
+  margin-top: 5px;
+}
+#pg8lastname {
+  width: 170px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+#pg8label1 {
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+#pg8label2 {
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+#pg8label3 {
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+#pg8label4 {
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+#pg8label5 {
+  width: 350px;
+  height: 100px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+.pg8button2 {
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  border-radius: 6px;
+  border: none;
+}

@@ -1,0 +1,51 @@
+.page3 {
+  background-color: #c5dff8;
+  height: 1040px;
+}
+.pg3button1 {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 5px;
+  height: 30px;
+  margin-left: 60px;
+  margin-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.heading {
+  margin-left: 60px;
+  margin-top: 30px;
+}
+.heading h1 {
+  font-size: 50px;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+
+.group1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+.group2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+.pg3button2 {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 5px;
+  height: 60px;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 40px;
+  font-size: medium;
+  margin-top: 60px;
+  margin-left: 43%;
+}
+img {
+  border-radius: 10px;
+}

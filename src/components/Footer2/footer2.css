@@ -1,0 +1,50 @@
+.Footer2 {
+  display: flex;
+  justify-content: space-around;
+}
+#f1img1 {
+  height: 50px;
+  width: 80px;
+}
+
+.f1td {
+  font-size: 10px;
+  margin-left: 10px;
+}
+.f1stars {
+  font-size: 15px;
+  opacity: 0.5;
+}
+.f1vertical1 {
+  border-left: 4px solid gray;
+  height: 37px;
+  opacity: 0.4;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.footer2A {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+.footer2Para1 {
+  margin-top: 15px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 100;
+  opacity: 0.8;
+}
+.footer2B {
+  display: flex;
+  width: 40%;
+  justify-content: space-evenly;
+  margin-top: 45px;
+}
+.footer2C {
+  width: 400px;
+  margin-left: 600px;
+  margin-top: 30px;
+
+  font-size: 13px;
+}

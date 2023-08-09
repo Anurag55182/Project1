@@ -1,0 +1,47 @@
+.Page2 {
+  margin-top: 50px;
+}
+.pg2container1 {
+  background-color: #28282b;
+  height: 400px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.pg2button1 {
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.pg2h1 {
+  color: white;
+  font-size: 60px;
+  margin-top: 150px;
+  margin-left: 20px;
+}
+.pg2logo {
+  height: 200px;
+  width: 200px;
+}
+
+.pg2container2 {
+  display: flex;
+
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.pg2card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.pg2hr {
+  margin: 40px;
+  background-color: gray;
+  height: 0.7px;
+  opacity: 0.3;
+}

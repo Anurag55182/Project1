@@ -1,0 +1,50 @@
+.pg7 {
+  height: 800px;
+}
+#pg7img1 {
+  margin-left: 300px;
+  margin-top: 150px;
+  height: 50px;
+  width: 50px;
+  border-radius: 0px;
+}
+.pg7p1 {
+  margin-top: 40px;
+  margin-left: 300px;
+  font-size: 30px;
+}
+.pg7h4 {
+  margin-left: 300px;
+  margin-top: 35px;
+}
+.pg7text {
+  margin-left: 300px;
+  margin-top: 10px;
+  opacity: 0.7;
+}
+.pg7table1 {
+  margin-top: 70px;
+  margin-left: 800px;
+  width: 200px;
+}
+.pg7td {
+  font-size: 12px;
+  font-weight: bold;
+}
+.pg7stars {
+  font-size: 20px;
+  opacity: 0.3;
+}
+#pg7img2 {
+  height: 50px;
+  width: 80px;
+}
+#pg7img3 {
+  height: 100px;
+  width: 200px;
+}
+.Google {
+  width: 200px;
+  margin-left: 1050px;
+  margin-top: -95px;
+}

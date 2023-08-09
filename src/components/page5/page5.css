@@ -1,0 +1,129 @@
+* {
+  margin: 0px;
+}
+.pg5 {
+  background-color: black;
+  height: 800px;
+}
+.pg5box1 {
+  background-color: #28282b;
+  height: 400px;
+}
+.pg5container1 {
+  display: flex;
+  justify-content: space-between;
+}
+.pg5box2 {
+  background-color: #28282b;
+  height: 390px;
+  margin-top: 10px;
+  width: 150px;
+}
+.pg5box3 {
+  height: 390px;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 700px;
+  background-color: #28282b;
+}
+.pg5box4 {
+  height: 390px;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 700px;
+  background-color: #28282b;
+}
+.pg5box5 {
+  height: 390px;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 150px;
+  background-color: #28282b;
+}
+.pg5button1 {
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+.pg5button2 {
+  height: 70px;
+  width: 370px;
+  font-size: large;
+  background-color: black;
+  color: white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-top: 105px;
+  margin-left: 540px;
+  border: none;
+}
+.pg5span1 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pg5h1 {
+  color: white;
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 50px;
+}
+.pg5h6 {
+  color: white;
+  margin-top: 30px;
+  margin-left: 40px;
+  font-size: 15px;
+}
+.pg5card1 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 220px;
+  width: 400px;
+  margin-left: 50px;
+  margin-top: 100px;
+  background-color: black;
+}
+.pg5card2 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 220px;
+  width: 400px;
+  margin-left: 550px;
+  margin-top: 100px;
+  background-color: black;
+}
+.pg5card3 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 220px;
+  width: 400px;
+  margin-left: 1050px;
+  margin-top: 100px;
+  background-color: black;
+}
+.pg5h2 {
+  color: white;
+  font-size: 25px;
+  margin-left: 30px;
+}
+.pg5para1 {
+  color: white;
+  opacity: 0.5;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.pg5para2 {
+  color: white;
+  margin-left: 30px;
+  margin-top: -20px;
+}
