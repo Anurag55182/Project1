@@ -1,0 +1,54 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  margin-right: 100px;
+}
+.navul {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5px;
+  width: 650px;
+  margin-right: 100px;
+}
+.navli {
+  text-decoration: none;
+  list-style: none;
+}
+a:hover {
+  color: darkblue;
+}
+.navul .navli a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+#logo {
+  height: 35px;
+}
+.navbutton {
+  height: 40px;
+  width: 120px;
+  border: none;
+  border-radius: 4px;
+  font-size: 13px;
+  background-color: blue;
+  color: white;
+  margin-left: 20px;
+}
+.navbutton2 {
+  height: 15px;
+  font-size: 11px;
+  font-weight: bold;
+  border: none;
+}
+.navspan {
+  font-size: 15px;
+  color: black;
+}
+hr {
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-top: 10px;
+  opacity: 0.6;
+}
