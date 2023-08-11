@@ -1,5 +1,5 @@
-import "./Page1.css";
-export default function Page1() {
+import "./AbtPage1.css";
+export default function AbtPage1() {
   return (
     <div>
       <div className="navbar">
@@ -53,9 +53,7 @@ export default function Page1() {
           <table>
             <tr>
               <th>
-                <button className="navbutton2">
-                  Client Support <i className="bi bi-arrow-right"></i>
-                </button>
+                <button className="navbutton2">Client Support &rarr;</button>
               </th>
               <td rowspan="2">
                 <button type="submit" className="navbutton">

@@ -1,0 +1,59 @@
+.pg9container3 {
+  background-color: black;
+  height: 600px;
+  margin-top: 300px;
+  margin-left: 0;
+}
+.pg9h2 {
+  color: white;
+  font-size: 30px;
+  padding-top: 60px;
+  margin-left: 50px;
+  width: 200px;
+  height: 50px;
+}
+.pg9listA {
+  color: white;
+  opacity: 0.7;
+  line-height: 30px;
+  display: flex;
+  margin-left: 10px;
+  margin-top: -30px;
+}
+.pg9list1 {
+  width: 300px;
+
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.pg9list2 {
+  width: 300px;
+  margin-top: 30px;
+}
+.pg9ul {
+  list-style: none;
+}
+.pg9listB {
+  color: white;
+  opacity: 0.7;
+  line-height: 30px;
+  display: flex;
+  margin-top: -30px;
+}
+.pg9logo {
+  width: 400px;
+  margin-left: 900px;
+  margin-top: -300px;
+  color: white;
+  font-size: 30px;
+}
+.pg9button2 {
+  margin-left: 980px;
+  height: 40px;
+  width: 200px;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  margin-top: 30px;
+}

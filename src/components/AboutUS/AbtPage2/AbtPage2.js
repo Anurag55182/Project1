@@ -1,5 +1,5 @@
-import "./Page2.css";
-export default function Page2() {
+import "./AbtPage2.css";
+export default function AbtPage2() {
   return (
     <div>
       <div className="container3">
@@ -16,7 +16,7 @@ export default function Page2() {
           chaos.
         </div>
         <div className="link1">
-          <a href=""> Learn More</a>
+          <a href="https://tecnologia.vamtam.com/why-us/"> Learn More</a>
         </div>
       </div>
       <div className="container4">
